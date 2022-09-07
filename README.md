@@ -12,7 +12,7 @@ If the number of arguments is different from 2, then the program displays a newl
 Usage
 
 
-<!-- $ go run . zpadinton paqefwtdjetyiytjneytjoeyjnejeyj | cat -e
+```$ go run . zpadinton paqefwtdjetyiytjneytjoeyjnejeyj | cat -e
 zpadintoqefwjy$
 $ go run . ddf6vewg64f gtwthgdwthdwfteewhrtag6h4ffdhsd | cat -e
 df6vewg4thras$
@@ -22,4 +22,4 @@ $ go run . | cat -e
 $
 $ go run . rien | cat -e
 $
-$ -->
+$```
