@@ -22,4 +22,4 @@ $ go run . | cat -e
 $
 $ go run . rien | cat -e
 $
-$```
+$
