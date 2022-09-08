@@ -1,21 +1,19 @@
 package main
 
-import (
-	"os"
-
-	"github.com/01-edu/z01"
-)
+import "fmt"
 
 func main() {
-	args := os.Args[1:]
-	if len(args) != 0 {
-		str := args[len(args)-1]
-		for _, i := range str {
-			z01.PrintRune(i)
+	a := []int{23, 123, 1, 11, 55, 93}
+	max := Max(a)
+	fmt.Println(max)
+}
 
+func Max(a []int) int {
+	max := a[0]
+	for i := 0; i < len(a)-1; i++ {
+		if a[i] < a[i+1] && a[i+1] > max {
+			max = a[i+1]
 		}
-	} else {
-		os.Exit(0)
 	}
-	z01.PrintRune('\n')
+	return max
 }
