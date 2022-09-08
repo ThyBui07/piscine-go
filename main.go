@@ -5,14 +5,12 @@ import (
 )
 
 func main() {
-	counter := 0
 	for i := 'a'; i <= 'z'; i++ {
-		if counter%2 != 0 {
-			z01.PrintRune(i - 32)
-		} else {
+		if i%2 != 0 {
 			z01.PrintRune(i)
+		} else {
+			z01.PrintRune(i - 32)
 		}
-		counter++
 	}
 	z01.PrintRune('\n')
 }
