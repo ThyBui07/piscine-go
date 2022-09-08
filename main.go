@@ -9,7 +9,7 @@ import (
 func main() {
 	args := os.Args[1:]
 	if len(args) != 0 {
-		str := args[0]
+		str := args[len(args)-1]
 		for _, i := range str {
 			z01.PrintRune(i)
 

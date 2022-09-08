@@ -1,15 +1,18 @@
-# displayfirstparam
+# displaylastparam
 
 Instructions
 
-Write a program that displays its first argument, if there is one.
+Write a program that displays its last argument, if there is one.
 
 Usage
 
 ```
 $ go run . hello there
-hello
+there
 $ go run . "hello there" how are you
+you
+$ go run . "hello there"
 hello there
 $ go run .
+$o run .
 $
