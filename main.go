@@ -1,13 +1,18 @@
 package main
 
-import "fmt"
-
-func SwapBits(octet byte) byte {
-	return octet<<4 | octet>>4
-}
+import (
+	"github.com/01-edu/z01"
+)
 
 func main() {
-	var num byte = 65
-	fmt.Printf("%08b\n", num)
-	fmt.Printf("%08b\n", SwapBits(num))
+	counter := 0
+	for i := 'a'; i <= 'z'; i++ {
+		if counter%2 != 0 {
+			z01.PrintRune(i - 32)
+		} else {
+			z01.PrintRune(i)
+		}
+		counter++
+	}
+	z01.PrintRune('\n')
 }

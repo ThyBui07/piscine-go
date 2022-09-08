@@ -1,23 +1,12 @@
-# swapbits
+# displayalpham
 
 Instructions
-Write a function that takes a byte, swaps its halfs (like the example) and returns the result.
 
-Expected function
+Write a program that displays the alphabet, with even letters in uppercase, and odd letters in lowercase, followed by a newline ('\n').
 
-```
-func SwapBits(octet byte) byte {
-
-}
-```
-
-Example:
-
-1 byte
+Usage
 
 ```
-0100 | 0001
-    \ /
-    / \
-0001 | 0100
-```
+$ go run . | cat -e
+aBcDeFgHiJkLmNoPqRsTuVwXyZ$
+$
