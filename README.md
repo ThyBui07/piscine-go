@@ -41,18 +41,18 @@ Introduction to Go Lang and basic programmation concepts II
 Notions: String Manupulation, Range Loops, Pointers, Modulo and Division relative to computer science.
 
 Exercices:
-pointone | https://public.01-edu.org/subjects/pointone.en
-ultimatepointone | https://public.01-edu.org/subjects/ultimatepointone.en
-divmod | https://public.01-edu.org/subjects/divmod.en
-ultimatedivmod | https://public.01-edu.org/subjects/ultimatedivmod.en
-printstr | https://public.01-edu.org/subjects/printstr.en
-strlen | https://public.01-edu.org/subjects/strlen.en
-swap | https://public.01-edu.org/subjects/swap.en
-strrev | https://public.01-edu.org/subjects/strrev.en
-basicatoi | https://public.01-edu.org/subjects/basicatoi.en
-basicatoi2 | https://public.01-edu.org/subjects/basicatoi2.en
-atoi | https://public.01-edu.org/subjects/atoi.en
-sortintegerable | https://public.01-edu.org/subjects/sortintegertable.en
+pointone 
+ultimatepointone
+divmod
+ultimatedivmod
+printstr 
+strlen 
+swap 
+strrev
+basicatoi 
+basicatoi2
+atoi 
+sortintegerable 
 
 **Quest 4**
 
