@@ -1,0 +1,1 @@
+ls -utpm | tr -d '[:blank:]'
