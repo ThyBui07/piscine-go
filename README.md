@@ -7,18 +7,20 @@ questions practicing during piscine
 **Quest 1**
 
 Exercices:
-introduction 
+```
+introduction
 make-it-better
 who-are-you
-cl-camp1 
-cl-camp2 
+cl-camp1
+cl-camp2
 cl-camp3
-cl-camp4 
-cl-camp5 
-cl-camp6 
-cl-camp7 
-cl-camp8 
+cl-camp4
+cl-camp5
+cl-camp6
+cl-camp7
+cl-camp8
 now-get-to-work
+```
 
 **Quest 2**
 
@@ -76,24 +78,24 @@ Application of previously viewed concepts.
 Notions: String Manipulation and medium-advanced algorithmia
 
 Exercices:
-firstrune | https://public.01-edu.org/subjects/firstrune.en
-nrune | https://public.01-edu.org/subjects/nrune.en
-lastrune | https://public.01-edu.org/subjects/lastrune.en
-index | https://public.01-edu.org/subjects/index.en
-compare | https://public.01-edu.org/subjects/compare.en
-toupper | https://public.01-edu.org/subjects/toupper.en
-tolower | https://public.01-edu.org/subjects/tolower.en
-capitalize | https://public.01-edu.org/subjects/capitalize.en
-isalpha | https://public.01-edu.org/subjects/isalpha.en
-isnumeric | https://public.01-edu.org/subjects/isnumeric.en
-islower | https://public.01-edu.org/subjects/islower.en
-isupper | https://public.01-edu.org/subjects/isupper.en
-isprintable | https://public.01-edu.org/subjects/isprintable.en
-concat | https://public.01-edu.org/subjects/concat.en
-basicjoin | https://public.01-edu.org/subjects/basicjoin.en
-join | https://public.01-edu.org/subjects/join.en
-printnbrbase | https://public.01-edu.org/subjects/printnbrbase.en
-atoibase | https://public.01-edu.org/subjects/atoibase.en
+firstrune 
+nrune 
+lastrune
+index 
+compare 
+toupper 
+tolower 
+capitalize 
+isalpha 
+isnumeric 
+islower 
+isupper 
+isprintable
+concat 
+basicjoin 
+join 
+printnbrbase
+atoibase
 
 **Quest 6**
 
