@@ -60,15 +60,15 @@ Algorithmia concepts
 Notions: Iterative and recursive programmation
 
 Exercices:
-iterativefactorial | https://public.01-edu.org/subjects/iterativefactorial.en
-recursivefactorial | https://public.01-edu.org/subjects/recursivefactorial.en
-iterativepower | https://public.01-edu.org/subjects/iterativepower.en
-recursivepower | https://public.01-edu.org/subjects/recursivepower.en
-fibonacci | https://public.01-edu.org/subjects/fibonacci.en
-sqrt | https://public.01-edu.org/subjects/sqrt.en
-isprime | https://public.01-edu.org/subjects/isprime.en
-findnextprime | https://public.01-edu.org/subjects/findnextprime.en
-eightqueens | https://public.01-edu.org/subjects/eightqueens.en
+iterativefactorial 
+recursivefactorial
+iterativepower 
+recursivepower 
+fibonacci 
+sqrt 
+isprime 
+findnextprime 
+eightqueens 
 
 **Quest 5**
 
