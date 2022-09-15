@@ -26,14 +26,14 @@ Introduction to Go Lang and basic programmation concepts
 Notions: Variables declaration, Loops, if and else statement, usage of z01.PrintRune function.
 
 Exercices:
-printalphabet | https://public.01-edu.org/subjects/printalphabet.en
-printreversealphabet | https://public.01-edu.org/subjects/printreversealphabet.en
-prindigits | https://public.01-edu.org/subjects/printdigits.en
-isnegative | https://public.01-edu.org/subjects/isnegative.en
-printcomb | https://public.01-edu.org/subjects/printcomb.en
-printcomb2 | https://public.01-edu.org/subjects/printcomb2.en
-printnbr | https://public.01-edu.org/subjects/printnbr.en
-printcombn | https://public.01-edu.org/subjects/printcombn.en
+printalphabet
+printreversealphabet
+printdigits 
+isnegative
+printcomb
+printcomb2 
+printnbr
+printcombn 
 
 **Quest 3**
 
